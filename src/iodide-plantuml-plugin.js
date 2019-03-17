@@ -1,4 +1,4 @@
-import  "https://raw.githubusercontent.com/johan/js-deflate/master/rawdeflate.js";
+//import  "https://raw.githubusercontent.com/johan/js-deflate/master/rawdeflate.js";
 
 var plantuml = (function () {
 var plantuml_server ="http://www.plantuml.com/plantuml/";
