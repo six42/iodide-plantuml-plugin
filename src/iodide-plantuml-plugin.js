@@ -72,7 +72,7 @@ function plantuml_encode(source_text){
   
 function plantuml(target_image,source_text) {
   s = plantuml_encode(source_text);
-  $(target_image).src = plantuml_server+plantuml_output_type+"/"+s;
+  document.getElementById(target_image).src = plantuml_server+plantuml_output_type+"/"+s;
 }
 
 function plantuml_img(source_text) {
