@@ -2,9 +2,9 @@
 
 ## Try It
 A sample says more than a 1000 words:
-https://alpha.iodide.io/notebooks/812/
+https://alpha.iodide.io/notebooks/812/?viewMode=report
 
-# Installation
+# Usage
 ## 1. Add the following to the top of your notebooks
 ```
 %% fetch
